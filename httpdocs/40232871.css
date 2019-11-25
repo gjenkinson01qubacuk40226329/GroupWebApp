@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 25px;
+}
+</style>
+</head>
+<body>
+
+<h1>CSS EXAMPLE </h1>
+<p>Just some text to fill out a paragraph.</p>
+
+</body>
+</html>

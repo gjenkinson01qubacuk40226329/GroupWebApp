@@ -1,0 +1,23 @@
+
+body {
+	background-color: grey;
+}
+h1 {
+	text-align: center;
+	color: White;
+	font-family:verdana;
+	font-size: 300%;
+}
+p {
+	text-align: center;
+	color: orange;
+	font-family: courier;
+	font-size: 160%;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:50%;
+}

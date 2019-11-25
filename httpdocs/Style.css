@@ -1,0 +1,19 @@
+	h1{
+		color: blue;
+		font-family: verdana;
+		font-size: 160%;
+	}
+	P{
+		color: red;
+		font-family: courier;
+		font-size: 160%;
+	}
+	
+	#para1 {
+		text-align: center;
+		color: red;
+	}
+	
+	body {
+		background-color: lightblue;
+	}
